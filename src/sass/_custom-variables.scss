@@ -1,0 +1,18 @@
+//
+//
+//
+
+$brand-primary: #1c1c1c;
+$tracker-purple: #b1b;
+$white: #fff;
+
+$tracker-custom-colors-map: (
+  4: (
+    background:                 $brand-primary,
+    color:                      $white
+  ),
+  5: (
+    background:                 $tracker-purple,
+    color:                      $white
+  ),
+);
